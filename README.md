@@ -8,7 +8,7 @@
 
 ---
 
-## Sou Desenvolvedor, pesquisador e estudante!
+## Sou Desenvolvedor e estudante!
 
 - 🚀 Atualmente estou aberto para novas oportunidades de trabalho!
 - 📚 Aprendendo e aprimorando minhas habilidades sempre!
