@@ -1,4 +1,4 @@
-# Olá, me chamo Matheus Rodrigues 👋
+# 👋 Olá, me chamo Matheus Rodrigues  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusrodrrgues)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusrodrrgues)
@@ -8,33 +8,33 @@
 
 ---
 
-## Sou Desenvolvedor e estudante!
+## 🚀 Quem sou eu  
 
-- 🚀 Atualmente estou aberto para novas oportunidades de trabalho!
-- 📚 Aprendendo e aprimorando minhas habilidades sempre!
-- 🤝 Buscando colaborar com outros projetos
-- 🎯 Objetivo: Contribuir mais para projetos Open Source
-- 🎮 Amo jogar e explorar novos mundos digitais
-- 💻 Gosto de participar de debates sobre tecnologia e inovação
-
----
-
-## Sobre mim
-
-Sou um desenvolvedor orientado a soluções, que utiliza linguagens de programação para criar valor e resolver problemas complexos. Minha experiência está no desenvolvimento full-stack, com foco predominante em JavaScript/TypeScript e seus frameworks. Sou conhecido pela flexibilidade e pela capacidade de adotar as ferramentas mais eficientes para cada projeto.
-
-Entusiasta da tecnologia, possuo habilidades sólidas em desenvolvimento front-end para web e mobile, além de estar aprimorando cada vez mais meus conhecimentos em back-end.
-
-Minha paixão pela programação começou desde cedo, me impulsionando a aprender, crescer e explorar constantemente essa área fascinante. Adoro discutir ideias, aprender novas tecnologias e contribuir para a evolução do cenário tecnológico.
+- 🎓 Estudante de **Engenharia de Computação** (3º semestre) na **UEFS**  
+- 💼 **Bolsista de Iniciação Tecnológica** na UEFS  
+- 💻 Desenvolvedor **Full Stack** com foco em **JavaScript/TypeScript**, **Java** e **PHP**  
+- 📚 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades  
+- 🤝 Aberto a colaborações em projetos e iniciativas Open Source  
+- 🎮 Apaixonado por jogos, tecnologia e inovação  
 
 ---
 
-## Linguagens e atribuições:
+## ✨ Sobre mim  
+
+Sou um desenvolvedor orientado a soluções, que gosta de transformar ideias em projetos reais. Tenho experiência no desenvolvimento **web e mobile**, com foco em **front-end**, mas também em constante evolução no **back-end**.  
+
+Minha paixão por tecnologia me impulsiona a explorar novas ferramentas, discutir ideias e compartilhar conhecimento. Acredito que a programação vai além do código: é sobre **resolver problemas, criar valor e impactar pessoas**.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
+---
