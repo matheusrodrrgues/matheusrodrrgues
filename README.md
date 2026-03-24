@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/matheusrodrrgues">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/75981881920">
+  <a href="https://wa.me/75991303289">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:mmttheus2001@gmail.com">
@@ -23,7 +23,7 @@
 
 ## 🚀 Sobre mim  
 
-- 🎓 Estudante de **Engenharia de Computação** (3º semestre) na **UEFS**  
+- 🎓 Estudante de **Engenharia de Computação** (4º semestre) na **UEFS**  
 - 💼 **Bolsista de Iniciação Tecnológica** na UEFS  
 - 💻 Desenvolvedor **Full Stack**, com foco em **JavaScript/TypeScript**, **Java** e **PHP**  
 - 🤝 Aberto a colaborações e projetos **Open Source**  
