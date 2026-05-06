@@ -157,19 +157,6 @@ Tudo acontece dentro da plataforma: **aulas, provas, questões, correções, rel
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrodrrgues&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodrrgues&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=matheusrodrrgues&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Vamos construir algo?
 
