@@ -83,13 +83,13 @@ A Amplya ajuda negócios a atender melhor, vender com mais contexto e organizar 
 - Suporte, vendas e operação em um único painel
 
 <p align="center">
-  <img src="assets/projects/amplya1%20(1).png" alt="Dashboard da Amplya" width="49%"/>
-  <img src="assets/projects/amplya2.png" alt="Catálogo inteligente da Amplya" width="49%"/>
+  <img src="amplya1%20(1).png" alt="Dashboard da Amplya" width="49%"/>
+  <img src="amplya2.png" alt="Catálogo inteligente da Amplya" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="assets/projects/amplya3.png" alt="Configuração de IA da Amplya" width="49%"/>
-  <img src="assets/projects/amplya4.png" alt="Perfil do negócio na Amplya" width="49%"/>
+  <img src="amplya3.png" alt="Configuração de IA da Amplya" width="49%"/>
+  <img src="amplya4.png" alt="Perfil do negócio na Amplya" width="49%"/>
 </p>
 
 ---
@@ -107,8 +107,8 @@ Sistema web de **gestão de pessoas e recursos humanos**, desenvolvido para cent
 - Controle por perfis de usuário
 
 <p align="center">
-  <img src="assets/projects/rh_system1.png" alt="Painel de funcionários do Taurus RH" width="49%"/>
-  <img src="assets/projects/rh_system.png" alt="Login do Taurus RH" width="49%"/>
+  <img src="rh_system1.png" alt="Painel de funcionários do Taurus RH" width="49%"/>
+  <img src="rh_system.png" alt="Login do Taurus RH" width="49%"/>
 </p>
 
 ---
@@ -129,12 +129,12 @@ Tudo acontece dentro da plataforma: **aulas, provas, questões, correções, rel
 - Painel administrativo
 
 <p align="center">
-  <img src="assets/projects/sav2.png" alt="Relatórios do SAVPAB" width="49%"/>
-  <img src="assets/projects/sav3.png" alt="Gerenciamento de provas do SAVPAB" width="49%"/>
+  <img src="sav2.png" alt="Relatórios do SAVPAB" width="49%"/>
+  <img src="sav3.png" alt="Gerenciamento de provas do SAVPAB" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="assets/projects/sav1.png" alt="Login da área do professor do SAVPAB" width="70%"/>
+  <img src="sav1.png" alt="Login da área do professor do SAVPAB" width="70%"/>
 </p>
 
 ---
